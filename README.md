@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thaís dal Pozzo</h1>
-<h3 align="center">I am an automated testing developer and QA lead.</h3>
+<h3 align="center">I am an automated testing developer and QA analyst.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
